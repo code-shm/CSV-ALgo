@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSV Upload and Process</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      width: 400px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    input[type="file"] {
+      margin: 10px 0;
+      width: 100%;
+    }
+    .response {
+      margin-top: 20px;
+      font-size: 16px;
+    }
+    .response a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Upload CSV File</h1>
+  <form id="csvForm" enctype="multipart/form-data">
+    <input type="file" name="csv" id="csvFile" accept=".csv" required>
+    <button type="submit">Upload and Process</button>
+  </form>
+  <div class="response" id="responseMessage"></div>
+</div>
+
+<script>
+  const form = document.getElementById("csvForm");
+  const responseMessage = document.getElementById("responseMessage");
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const formData = new FormData();
+    const csvFile = document.getElementById("csvFile").files[0];
+
+    if (!csvFile) {
+      responseMessage.innerHTML = "Please select a CSV file.";
+      return;
+    }
+
+    formData.append("csv", csvFile);
+
+    // Send the form data to the server
+    fetch("/upload-csv", {
+      method: "POST",
+      body: formData,
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.error) {
+        responseMessage.innerHTML = `Error: ${data.error}`;
+      } else {
+        responseMessage.innerHTML = `
+          File processed successfully! 
+          <a href="${data.output_file}" download>Download the processed CSV</a>
+        `;
+      }
+    })
+    .catch(error => {
+      responseMessage.innerHTML = "An error occurred. Please try again.";
+    });
+  });
+</script>
+
+</body>
+</html>

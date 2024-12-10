@@ -1,0 +1,93 @@
+Name,Gender,Category,Choice1,Choice2,Choice3,Rank,Physical Disabled,Wards of ex-serviceman,Freedom fighter,XII_Aggregate Percentage,Allocated_Branch,Allocated_Table,Correspondence State
+VANSHIKA  AGRAWAL,Female,UR,CSE,DSAI,ECE,12012,No,No,No,97.67,CSE,CSE_ur_female,Chattishgarh
+JAIPRAKASH  SAHU,Male,OBC,CSE,DSAI,ECE,12431,No,No,No,53.0,CSE,CSE_obc_open,Chattishgarh
+DARSHAN  KOCHAR,Male,UR,CSE,DSAI,ECE,14981,No,No,No,82.0,CSE,CSE_ur_open,Chattishgarh
+SOUMYA  ARYA,Female,UR,CSE,ECE,DSAI,15044,No,No,No,95.0,CSE,CSE_ur_female,Chattishgarh
+YASH VARDHAN SINGH,Male,OBC,CSE,ECE,,16121,No,No,No,91.67,CSE,CSE_ur_open,Uttar Pradesh
+RISHABH KUMAR MISHRA,Male,UR,CSE,DSAI,ECE,19019,No,No,No,93.0,CSE,CSE_ur_open,Chattishgarh
+M VISHISTA REDDY,Female,UR,CSE,DSAI,ECE,20320,No,No,No,98.3,CSE,CSE_ur_female,West Bengal
+VIBHOR  SHUKLA,Male,UR,CSE,DSAI,ECE,20543,No,No,No,95.0,CSE,CSE_ur_open,Chattishgarh
+AMLAN JYOTI,Male,UR,CSE,ECE,DSAI,21466,No,No,No,95.4,CSE,CSE_ur_open,Jharkhand
+PALAK  JAISWAL,Female,OBC,CSE,ECE,DSAI,24171,No,No,No,85.0,CSE,CSE_ur_open,Chattishgarh
+ANSHUMAAN  KARNA,Male,UR,CSE,DSAI,ECE,24287,No,No,No,92.0,CSE,CSE_ur_open,Uttar Pradesh
+ALOK  MISHRA,Male,UR,CSE,DSAI,ECE,24654,No,No,No,66.67,DSAI,DSAI_ur_open,Chattishgarh
+SHIVANG  BARNWAL,Male,UR,CSE,DSAI,ECE,25185,No,No,No,91.0,DSAI,DSAI_ur_open,Chattishgarh
+ABHI  RANJAN,Male,UR,CSE,DSAI,ECE,26471,No,No,No,88.8,DSAI,DSAI_ur_open,Madhya Pradesh
+BIBHAS  NATH,Male,UR,CSE,DSAI,ECE,26893,No,No,No,89.33,DSAI,DSAI_ur_open,Chattishgarh
+AMBER  AGRAWAL,Male,UR,CSE,DSAI,ECE,28020,No,No,No,92.0,DSAI,DSAI_ur_open,Chattishgarh
+SUJAL  AHAR,Male,OBC,CSE,DSAI,ECE,28063,No,No,No,89.0,CSE,CSE_obc_open,Chattishgarh
+JAYESH  SHARMA,Male,UR,CSE,DSAI,ECE,28354,No,No,No,86.33,DSAI,DSAI_ur_open,Chattishgarh
+NYSA CHARAN PAHARI,Female,UR,CSE,DSAI,ECE,28647,No,No,No,89.0,DSAI,DSAI_ur_female,Karnataka
+KUNDRAPU JAYA DEEP,Male,OBC,CSE,DSAI,ECE,28761,No,No,No,97.5,DSAI,DSAI_ur_open,Andhra Pradesh
+ATISHAY  JAIN,Male,UR,CSE,DSAI,ECE,28819,No,No,No,95.4,DSAI,DSAI_ur_open,Uttar Pradesh
+MANASVI  NAIR,Female,UR,CSE,DSAI,ECE,29065,No,No,No,94.33,DSAI,DSAI_ur_female,Chattishgarh
+AATIF  JUNAID,Male,UR,CSE,DSAI,ECE,29344,No,No,No,92.6,ECE,ECE_ur_open,Uttar Pradesh
+SOMANSH RAJ KASHYAP,Male,UR,CSE,DSAI,ECE,31144,No,No,No,96.33,ECE,ECE_ur_open,Chattishgarh
+PRATHAM  MALU,Male,UR,CSE,DSAI,ECE,31702,No,No,No,94.33,ECE,ECE_ur_open,Chattishgarh
+CHINTA  PARESH,Male,UR,CSE,DSAI,ECE,31904,No,No,No,88.0,ECE,ECE_ur_open,Chattishgarh
+TEJAS  KESHWANI,Male,UR,CSE,ECE,DSAI,31915,No,No,No,91.0,ECE,ECE_ur_open,Chattishgarh
+MRINAL  CHAUBEY,Male,UR,CSE,DSAI,ECE,32025,No,No,No,87.67,ECE,ECE_ur_open,Chattishgarh
+MUBASHSHIR AHMED KHAN,Male,UR,CSE,DSAI,ECE,32334,No,No,No,92.67,ECE,ECE_ur_open,Chattishgarh
+VATSAL  SHAH,Male,UR,CSE,DSAI,ECE,32374,No,No,No,88.0,ECE,ECE_ur_open,Chattishgarh
+SAATWIK  JAISWAL,Male,UR,CSE,DSAI,ECE,32748,No,No,No,70.67,ECE,ECE_ur_open,Chattishgarh
+RAJEEV  TRIPATHI,Female,UR,CSE,DSAI,ECE,35120,No,No,No,89.4,DSAI,DSAI_ur_female,Uttar Pradesh
+SUJAL  VERMA,Male,OBC,DSAI,CSE,ECE,35196,No,No,No,78.0,DSAI,DSAI_obc_open,Chattishgarh
+ANWITA  CHAKRABORTY,Female,UR,CSE,ECE,DSAI,35540,No,No,No,95.33,ECE,ECE_ur_female,Chattishgarh
+CHANDRAKANT  VERMA,Male,OBC,CSE,DSAI,ECE,37337,No,No,No,94.67,DSAI,DSAI_obc_open,Chattishgarh
+ADITYA  SONI,Male,OBC,CSE,DSAI,ECE,38803,No,No,No,83.33,ECE,ECE_obc_open,Chattishgarh
+SHREYA  KUMARI,Female,UR,CSE,ECE,DSAI,40200,No,No,No,93.4,ECE,ECE_ur_female,Jharkhand
+SRINIDHI  RAJAGOPAL,Female,UR,CSE,DSAI,ECE,40614,No,No,No,96.2,DSAI,DSAI_ur_female,Tamil Nadu
+VEERTA  SHRIVASTAVA,Female,UR,CSE,DSAI,ECE,42014,No,No,No,98.67,ECE,ECE_ur_female,Chattishgarh
+DAKSHESH  SAHU,Male,OBC,CSE,DSAI,ECE,43902,No,No,No,90.33,ECE,ECE_obc_open,Chattishgarh
+SHIFA  SHARMA,Female,UR,CSE,DSAI,ECE,45015,No,No,No,95.0,ECE,ECE_ur_female,Uttar Pradesh
+A AYUSH  MENON,Male,UR,CSE,DSAI,ECE,52324,No,Yes,No,87.67,CSE,CSE_ur_ex_serviceman,Chattishgarh
+ANANYA  SAHU,Female,OBC,CSE,,,56385,No,No,No,84.67,CSE,CSE_obc_female,Chattishgarh
+SWAPNIL  SINHA,Female,OBC,CSE,,,57753,No,No,No,94.0,CSE,CSE_obc_female,Bihar
+KESHAVEE  BISEN,Female,OBC,CSE,ECE,DSAI,71781,No,No,No,60.0,ECE,ECE_obc_female,Chattishgarh
+ANKIT  MAHTO,Male,UR,CSE,DSAI,ECE,77361,No,Yes,No,87.33,DSAI,DSAI_ur_ex_serviceman,Chattishgarh
+DIYA  DEWANGAN,Female,OBC,CSE,DSAI,ECE,78729,No,No,No,75.67,DSAI,DSAI_obc_female,Chattishgarh
+PRANOY  SARKAR,Male,SC,ECE,CSE,DSAI,94893,No,No,No,92.4,ECE,ECE_sc_open,West Bengal
+TUSHAR  CHATURVEDI,Male,SC,CSE,ECE,,96213,No,No,No,92.0,CSE,CSE_sc_open,Chattishgarh
+TANU  MEENA,Female,ST,CSE,DSAI,ECE,97777,No,No,No,82.8,CSE,CSE_st_female,Rajasthan
+RAJAT  YADAW,Male,OBC,CSE,DSAI,ECE,113970,No,Yes,No,94.0,ECE,ECE_obc_ex_serviceman,Chattishgarh
+AYUSH  RANJAN,Male,SC,ECE,CSE,,118196,No,No,No,82.8,ECE,ECE_sc_open,Madhya Pradesh
+BHAVESH SHASHIKANT BANSODE,Male,SC,CSE,DSAI,ECE,125819,No,No,No,86.33,CSE,CSE_sc_open,Chattishgarh
+SHIVANSHU KUMAR SINGH,Male,SC,CSE,ECE,DSAI,138777,No,No,No,88.2,CSE,CSE_sc_open,Uttar Pradesh
+SHREYANSH  TANDEY,Male,SC,CSE,DSAI,ECE,141964,No,No,No,72.33,DSAI,DSAI_sc_open,Chattishgarh
+KHUSHI  KHANDEKAR,Female,SC,CSE,DSAI,ECE,145828,No,No,No,90.0,CSE,CSE_sc_female,Chattishgarh
+TANISH  BISWAS,Male,SC,CSE,DSAI,ECE,146898,No,No,No,92.33,DSAI,DSAI_sc_open,Chattishgarh
+AJAY  KUMAR,Male,ST,CSE,ECE,,153176,No,No,No,93.33,CSE,CSE_st_open,Chattishgarh
+TARUN KUMAR NETAM,Male,ST,CSE,ECE,DSAI,172346,No,No,No,73.67,CSE,CSE_st_open,Chattishgarh
+TUSHAR  BHARTI,Male,SC,CSE,ECE,DSAI,172809,No,No,No,61.67,ECE,ECE_sc_open,Chattishgarh
+PURVESH  KAUSHIK,Male,ST,CSE,ECE,DSAI,183197,No,No,No,88.0,CSE,CSE_st_open,Chattishgarh
+ADARSH KUMAR GUPTA,Male,UR,CSE,DSAI,ECE,185225,"Differently Abled
+[Level of physical Disability: More than 60%]",No,No,63.67,CSE,CSE_ur_pwd,Chattishgarh
+ABINASH  BORO,Male,ST,CSE,DSAI,ECE,193332,No,No,No,78.67,CSE,CSE_st_open,Jharkhand
+LUCKY  BANJARE,Female,SC,CSE,DSAI,ECE,194250,No,No,No,86.67,DSAI,DSAI_sc_female,Chattishgarh
+DIKSHA 9399657709 UIKE,Female,ST,DSAI,CSE,ECE,206726,No,No,No,90.33,DSAI,DSAI_st_female,Chattishgarh
+KESHAV  PRASAD,Male,ST,CSE,ECE,,206934,No,No,No,71.0,CSE,CSE_st_open,Chattishgarh
+SAKSHI  SONKER,Female,SC,CSE,ECE,DSAI,207935,No,No,No,81.5,ECE,ECE_sc_female,Madhya Pradesh
+YOGENDRA KUMAR THAKUR,Male,ST,CSE,ECE,DSAI,215527,No,No,No,79.33,CSE,CSE_st_open,Chattishgarh
+BHUVESH KUMAR KODOPI,Male,ST,CSE,DSAI,ECE,230664,No,No,No,52.33,CSE,CSE_st_open,Chattishgarh
+PUSHPENDRA KUMAR THAKUR,Male,ST,CSE,DSAI,ECE,232050,No,No,No,66.0,DSAI,DSAI_st_open,Chattishgarh
+NEERAJ  NETAM,Male,ST,CSE,DSAI,ECE,232990,No,Yes,No,59.67,DSAI,DSAI_st_open,Chattishgarh
+HITESH KUMAR NAG,Male,ST,CSE,DSAI,ECE,238083,No,No,No,53.67,DSAI,DSAI_st_open,Chattishgarh
+DIYA  DHRUV,Female,ST,CSE,,,256515,No,No,No,51.0,CSE,CSE_st_female,Chattishgarh
+SHOBHAM  KISHAN,Male,ST,CSE,ECE,DSAI,268243,No,No,No,75.0,ECE,ECE_st_open,Chattishgarh
+SUSHIL KUMAR LAKRA,Male,ST,CSE,DSAI,ECE,275339,No,No,No,83.0,DSAI,DSAI_st_open,Chattishgarh
+KIRTI  PAINKRA,Female,ST,CSE,DSAI,ECE,279477,No,No,No,76.0,CSE,CSE_st_female,Chattishgarh
+RATAN RAJ PAIKRA,Male,ST,CSE,ECE,DSAI,282663,No,No,No,72.33,ECE,ECE_st_open,Chattishgarh
+GAYATRI  WATTI,Female,ST,ECE,CSE,DSAI,284995,No,No,No,60.0,ECE,ECE_st_female,Chattishgarh
+ANSHUL PRATAP LAKRA,Male,ST,CSE,DSAI,ECE,291725,No,No,No,49.67,DSAI,DSAI_st_open,Chattishgarh
+KARMENDRA DEV NETAM,Male,ST,CSE,ECE,DSAI,292206,No,No,No,69.33,ECE,ECE_st_open,Chattishgarh
+SHRIYA  BANOTH,Female,ST,CSE,DSAI,ECE,298487,No,No,No,97.8,DSAI,DSAI_st_female,Maharashtra
+ARVIND KUMAR NAG,Male,ST,CSE,DSAI,ECE,310946,No,No,No,50.33,DSAI,DSAI_st_open,Chattishgarh
+JAGDISH  MADKAMI,Male,ST,CSE,DSAI,ECE,314911,No,No,No,92.0,DSAI,DSAI_st_open,Chattishgarh
+VARSHA  DHRUW,Female,ST,CSE,DSAI,ECE,319474,No,No,No,87.0,DSAI,DSAI_st_female,Chattishgarh
+AASMA  POYA,Female,ST,CSE,ECE,DSAI,320586,No,No,No,55.0,ECE,ECE_st_female,Chattishgarh
+RITUL  BHAGAT,Female,ST,CSE,ECE,DSAI,337604,No,No,No,88.0,ECE,ECE_st_female,Chattishgarh
+SHASHWAT  SINGH,Male,ST,CSE,ECE,DSAI,339735,No,No,No,54.33,ECE,ECE_st_open,Chattishgarh
+DEVASMITA  MAJHI,Female,ST,CSE,ECE,DSAI,340200,No,No,No,91.6,ECE,ECE_st_open,Telangana
+DEVASMITA  MAJHI,Female,ST,CSE,DSAI,ECE,340200,No,No,No,91.6,ECE,ECE_st_open,Telangana
+SUDEEP  NISHAD,Male,OBC,DSAI,CSE,ECE,959324,"Differently Abled
+[Level of physical Disability: 40% to 60%]",No,No,60.67,DSAI,DSAI_obc_pwd,Chattishgarh
